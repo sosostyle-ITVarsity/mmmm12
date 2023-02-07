@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+button{
+    color: red;
+    background-color: black;
+    
+    border-width: 10px;   
+}
+
+label{
+    color: blue;
+}
+
+button{
+    color: azure;
+}
+
+div{
+    color: darkblue;
+}
